@@ -104,7 +104,7 @@ The Excel sheet contains:
 
 ### VBA Code For SendEmail
 
-<img src="" alt="Image Descriptioon" width="600">
+<img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/a20d3fac2b92a2deb48e1daf0a76382f16956f5e/Images/SendEmail_Gmail_VBA.png" alt="Image Descriptioon" width="600">
 
 ---
 
