@@ -84,7 +84,7 @@ The Excel sheet contains:
 
 ### Excel Data After Email Sent
 
-<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
+<img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/09c1d84f7e3ba2bf3f2f74107551dc48d0287749/Images/After%20Email%20Sent.png" alt="Image Description" width="600">
 
 ### Generated PDF
 
