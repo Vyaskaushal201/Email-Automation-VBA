@@ -100,7 +100,7 @@ The Excel sheet contains:
 
 ### VBA Code For FillFilePath
 
-<img src="" alt="Image Descriptioon" width="600">
+<img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/020e445a260cea500573596843ca9c418af15551/Images/FillFilePath_VBA.png" alt="Image Descriptioon" width="600">
 
 ### VBA Code For SendEmail
 
