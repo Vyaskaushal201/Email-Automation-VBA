@@ -87,7 +87,8 @@ The Excel sheet contains:
 <img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
 
 ### Generated PDF
-![PDF](images/pdf.png)
+
+<img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/02c9ce7c1bc5cfcdc695c288acb7a3a552451231/Images/PDF%20Latter.png" alt="Image Descriptioon" width="600">
 
 ### Email Sent
 ![Email](images/email.png)
