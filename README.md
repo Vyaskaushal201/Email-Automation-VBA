@@ -80,7 +80,7 @@ The Excel sheet contains:
 
 ### Excel Data Before Email Sent
 
-<img src="https://github.com/Vyaskaushal201/combine-excel-files-from-folder-power-query/blob/cb198b2e2dba99ee088ad2f3efa4aa5e5eb404c1/Images/Monthly-Sales-Report-Chart.png.png" alt="Image Description" width="600">
+<img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/6eb0525b07cf3e45d83e86943fb4be2625d6bdc3/Images/Before%20Email%20Sent.png" alt="Image Description" width="600">
 
 ### Excel Data After Email Sent
 
