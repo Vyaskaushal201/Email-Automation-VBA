@@ -91,10 +91,20 @@ The Excel sheet contains:
 <img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/02c9ce7c1bc5cfcdc695c288acb7a3a552451231/Images/PDF%20Latter.png" alt="Image Descriptioon" width="600">
 
 ### Email Sent
-![Email](images/email.png)
 
-### VBA Code
-![Code](images/code.png)
+<img src="https://github.com/Vyaskaushal201/Email-Automation-VBA/blob/b9ceb9d1e9e46a3c1862b5ffc1caaed8d7371b14/Images/Gmail.png" alt="Image Descriptioon" width="600">
+
+### VBA Code For Generates Latters
+
+<img src="" alt="Image Descriptioon" width="600">
+
+### VBA Code For FillFilePath
+
+<img src="" alt="Image Descriptioon" width="600">
+
+### VBA Code For SendEmail
+
+<img src="" alt="Image Descriptioon" width="600">
 
 ---
 
