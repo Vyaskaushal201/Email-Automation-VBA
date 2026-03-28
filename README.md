@@ -119,7 +119,10 @@ The Excel sheet contains:
 
 ## Author
 
-Created by [Your Name]
+Kaushal
+|
+Aspiring Data Analyst
+
 
 
 
